@@ -2,7 +2,7 @@
        
        
      ->  💻 Dart  
-      
+     
      -> 📲 Flutter  
  
  📲 Swift
@@ -10,15 +10,13 @@
  📲 Kotlin 
  
  📂 MySQL
-       
+ 
+ <h1></h1>
 
-
-
-   
 <div>
   <a href="https://github.com/YkaroMateus">
   <img height="180em"align="center" src="https://github-readme-stats.vercel.app/api?username=YkaroMateus&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YkaroMateus&layout=compact&langs_count=7&theme=react" />
+  <img height="200em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YkaroMateus&layout=compact&langs_count=7&theme=react" />
 
 </div>
  <br>
@@ -30,6 +28,10 @@
   <img align="center" alt="C" height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
   <img align="center" alt="Kotlin" height="20" width="100" src="https://kotlinlang.org/docs/images/kotlin-logo.png">
   <img align="center" alt="Swift" height="28" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/2560px-Swift_logo.svg.png">
+         
+ <h1></h1>
+
+<a href="https://github.com/YkaroMateus/github-readme-activity-graph"><img alt="Ykaro Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YkaroMateus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
  <h1></h1>
     
