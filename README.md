@@ -10,6 +10,9 @@
  📲 Kotlin 
  
  📂 MySQL
+  <h1></h1>
+  
+  ![snake gif](https://github.com/YkaroMateus/YkaroMateus/blob/output/github-contribution-grid-snake.gif)
  
  <h1></h1>
 
@@ -34,10 +37,10 @@
 <a href="https://github.com/YkaroMateus/github-readme-activity-graph"><img alt="Ykaro Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YkaroMateus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
  <h1></h1>
+         
     
 </div>
   <a href="https://www.instagram.com/mateus.ykaro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ykaro-mateus-246712234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 </div>
   
