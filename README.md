@@ -1,9 +1,9 @@
 *****Hi, my name is Ykaro*****
        
        
-       💻 Dart
+     *  💻 Dart
       
-      📲 Flutter 
+     *  📲 Flutter 
  
  📲 Swift
  
