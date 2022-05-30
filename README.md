@@ -39,5 +39,4 @@
   <a href="https://www.linkedin.com/in/ykaro-mateus-246712234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
-![gitartwork](gitartwork.svg)
   
