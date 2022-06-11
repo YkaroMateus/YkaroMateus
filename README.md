@@ -12,7 +12,7 @@
  📂 MySQL
   <h1></h1>
   
-  ![snake gif](https://github.com/YkaroMateus/YkaroMateus/blob/output/github-contribution-grid-snake.gif)
+<!--   ![snake gif](https://github.com/YkaroMateus/YkaroMateus/blob/output/github-contribution-grid-snake.gif) -->
  
  <h1></h1>
 
