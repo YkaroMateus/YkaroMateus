@@ -12,7 +12,7 @@
  📂 MySQL
   <h1></h1>
   
-<!--   ![snake gif](https://github.com/YkaroMateus/YkaroMateus/blob/output/github-contribution-grid-snake.gif) -->
+  ![snake gif](https://github.com/YkaroMateus/YkaroMateus/blob/output/github-contribution-grid-snake.gif)
  
  <h1></h1>
 
@@ -32,7 +32,11 @@
   <img align="center" alt="Kotlin" height="20" width="100" src="https://kotlinlang.org/docs/images/kotlin-logo.png">
   <img align="center" alt="Swift" height="28" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/2560px-Swift_logo.svg.png">
          
- <h1></h1>
+ <h1>  <h1></h1>
+  
+<!--   ![snake gif](https://github.com/YkaroMateus/YkaroMateus/blob/output/github-contribution-grid-snake.gif) -->
+ 
+ <h1></h1></h1>
 
 <a href="https://github.com/YkaroMateus/github-readme-activity-graph"><img alt="Ykaro Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YkaroMateus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
