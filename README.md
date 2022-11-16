@@ -25,8 +25,6 @@
   <img align="center" alt="Dart" height="30" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png">
   <img align="center" alt="MySQL" height="32" width="60" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">
   <img align="center" alt="C" height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
-  <img align="center" alt="Kotlin" height="20" width="100" src="https://kotlinlang.org/docs/images/kotlin-logo.png">
-  <img align="center" alt="Swift" height="28" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/2560px-Swift_logo.svg.png">
          
  <h1>  <h1></h1>
   
