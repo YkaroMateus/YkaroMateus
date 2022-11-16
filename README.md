@@ -5,10 +5,6 @@
      
      -> 📲 Flutter  
  
- 📲 Swift
- 
- 📲 Kotlin 
- 
  📂 MySQL
   <h1></h1>
   
