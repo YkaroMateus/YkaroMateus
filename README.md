@@ -1,10 +1,10 @@
 *****Hi, my name is Ykaro*****
        
-         💻 Dart  
+        -💻 Dart  
      
-         📲 Flutter  
+        -📲 Flutter  
  
-          📂 MySQL
+        -📂 MySQL
           
   <h1></h1>
   
