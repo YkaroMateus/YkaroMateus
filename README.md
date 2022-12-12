@@ -32,7 +32,7 @@
  
  <h1></h1></h1>
 
-<a href="https://github.com/YkaroMateus/github-readme-activity-graph"><img alt="Ykaro Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YkaroMateus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/YkaroMateus/github-readme-activity-graph"><img alt="Ykaro Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YkaroMateus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
  
  <h1></h1>
          
