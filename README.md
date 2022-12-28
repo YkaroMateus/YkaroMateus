@@ -8,7 +8,7 @@
           
   <h1></h1>
   
-<!--   ![snake gif](https://github.com/YkaroMateus/YkaroMateus/blob/output/github-contribution-grid-snake.gif) -->
+![Snake animation](https://github.com/YkaroMateus/YkaroMateus/blob/output/github-contribution-grid-snake.svg)   
  
  <h1></h1>
 
@@ -27,9 +27,8 @@
   <img align="center" alt="C" height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
          
  <h1>  
-         
+
 </div>
   <a href="https://www.instagram.com/mateus.ykaro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ykaro-mateus-246712234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
