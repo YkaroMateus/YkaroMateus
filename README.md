@@ -8,7 +8,7 @@
           
   <h1></h1>
   
-![Snake animation](https://github.com/YkaroMateus/YkaroMateus/blob/output/github-contribution-grid-snake.svg)   
+// ![Snake animation](https://github.com/YkaroMateus/YkaroMateus/blob/output/github-contribution-grid-snake.svg)   
  
  <br>
 <div  align="center"> 
