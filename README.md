@@ -56,9 +56,3 @@
 </p>
 
 ---
-
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/ykaro-mateus-marques-cabral-246712234/)
-
----
